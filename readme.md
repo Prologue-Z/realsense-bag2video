@@ -11,7 +11,7 @@
 
 
 ## 代码说明
-此脚本用于将realsense-viewer中录制得rgb和深度图像进行拼接，并保存为视频文件。
+此脚本用于将realsense-viewer录制的bag文件中的rgb和深度图像进行拼接，并保存为视频文件。
 
 ## 使用方法
 在bash中运行：
